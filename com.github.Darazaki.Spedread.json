@@ -27,12 +27,15 @@
             "name": "spedread",
             "builddir": true,
             "buildsystem": "meson",
+            "config-opts": [
+                "-Dadw_1_2=true"
+            ],
             "sources": [
                 {
                     "type": "git",
                     "url": "https://github.com/Darazaki/Spedread",
-                    "tag": "v2.3.0",
-                    "commit": "7153ebf7c71b2cff5f68e2cfc4895d3931c4c2e0"
+                    "tag": "v2.3.1",
+                    "commit": "2c2ed8b6df54e689aa5f6f8ad7636102b2a81fcb"
                 }
             ]
         }
