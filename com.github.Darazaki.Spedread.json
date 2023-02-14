@@ -34,8 +34,8 @@
                 {
                     "type": "git",
                     "url": "https://github.com/Darazaki/Spedread",
-                    "tag": "v2.3.3",
-                    "commit": "1de3a5b274823c58d868148c92db22740d80a610"
+                    "tag": "v2.3.4",
+                    "commit": "3a1a8d14c6f22648b40fa5400a8cdf28b8029dc1"
                 }
             ]
         }
