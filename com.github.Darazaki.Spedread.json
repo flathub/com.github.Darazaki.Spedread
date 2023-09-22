@@ -1,7 +1,7 @@
 {
     "app-id": "com.github.Darazaki.Spedread",
     "runtime": "org.gnome.Platform",
-    "runtime-version": "44",
+    "runtime-version": "45",
     "sdk": "org.gnome.Sdk",
     "command": "spedread",
     "finish-args": [
@@ -34,8 +34,8 @@
                 {
                     "type": "git",
                     "url": "https://github.com/Darazaki/Spedread",
-                    "tag": "v2.4.2",
-                    "commit": "a9224fcb67d0a75533cfd6cba75168360818f8c3"
+                    "tag": "v2.4.3",
+                    "commit": "9b9b6404abe7a90b6d5b767a6c6251c503926f57"
                 }
             ]
         }
